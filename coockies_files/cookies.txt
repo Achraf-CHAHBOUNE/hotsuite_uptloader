@@ -1,0 +1,53 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.hootsuite.com	TRUE	/	FALSE	1752416630	mutiny.user.token	4d1226c2-b9ad-45f6-be5b-2ea8baeded66
+.hootsuite.com	TRUE	/	FALSE	1725632630	_gcl_au	1.1.1843122546.1717856630
+.hootsuite.com	TRUE	/	FALSE	1755620326	_mkto_trk	id:407-OYZ-482&token:_mch-hootsuite.com-1717856632379-76484
+.hootsuite.com	TRUE	/	FALSE	1752625229	_pin_unauth	dWlkPU9UWmhORFppTWpndE1tWTVaaTAwTkRVMExUbGxZV1F0WWpNd016aGxNRGxqWWprNQ
+.hootsuite.com	TRUE	/	FALSE	1751552633	_tt_enable_cookie	1
+.hootsuite.com	TRUE	/	FALSE	1751552633	_ttp	eDVXaccXMah34JZepJwCdqE_vTA
+.hootsuite.com	TRUE	/	FALSE	1751725433	__qca	P0-2027676063-1717856632196
+.hootsuite.com	TRUE	/	FALSE	1749392696	OptanonAlertBoxClosed	2024-06-08T14:24:56.204Z
+hootsuite.com	FALSE	/	FALSE	1725632701	_fs_sample_user	true
+.hootsuite.com	TRUE	/	FALSE	1749392717	_derived_epik	dj0yJnU9dXVZUTl0dy04TXJQVGhMaEhTaEt2V1NnRG5xN09lenkmbj1PN1JhTFYxM0VVV2lURUdZMUhFZTNRJm09MTAmdD1BQUFBQUdaa2FjdyZybT0xMCZydD1BQUFBQUdaa2FjdyZzcD0x
+.hootsuite.com	TRUE	/	FALSE	1728865234	hsCmsVariation	PROFESSIONAL_PLAN
+hootsuite.com	FALSE	/	TRUE	1752427563	_gd_visitor	bab4803a-7137-483a-810e-63a2d7e749f2
+.hootsuite.com	TRUE	/	TRUE	1728865234	hsMemberPlanInfo	5|5|0|1
+.hootsuite.com	TRUE	/	TRUE	1755649235	FPID	FPID2.2.jbUR8%2FJd9WA0jPxb7ePtMEjsi2rBoOhsfmH9h1dSblY%3D.1717856631
+.hootsuite.com	TRUE	/	TRUE	1733419579	GTMLandingPage	https%3A%2F%2Fhootsuite.com%2Fdashboard%23%2Fhome
+hootsuite.com	FALSE	/	TRUE	1725643566	NPS_9ab38197_last_seen	1717867566983
+.hootsuite.com	TRUE	/	TRUE	1733419579	GTMPreviousSessionID	1717867566%2C1717863944
+hootsuite.com	FALSE	/	TRUE	1725643610	NPS_f0cfd5d7_last_seen	1717867610070
+.hootsuite.com	TRUE	/	TRUE	1755649229	_ga	GA1.2.1235626771.1717867567
+.hootsuite.com	TRUE	/	FALSE	1752427639	_ga_9ZZYCN29EN	GS1.1.1717867566.1.1.1717867639.0.0.215470331
+.hootsuite.com	TRUE	/	FALSE	1723652357	language	fr-fr
+.hootsuite.com	TRUE	/	TRUE	1721175628	_gid	GA1.2.678333837.1721060326
+.hootsuite.com	TRUE	/	TRUE	1721132327	FPLC	T13kRtG3Grny9xI9k4FlbpL%2F6Dwm%2BZILu3maZoxUKFxQstie8QV9y2tTKjm15yGLYka2gEXvXPiMyy2svh0ksuZVl6iWidaIc74MaS8G9tNJLYdaiMC01U5XxOsF0A%3D%3D
+.hootsuite.com	TRUE	/	FALSE	1755224326	cto_bundle	wCQwZV9wNG9YT0VkNGRSVlZWUnBNUUt1MFJaSkN1d2YzVTNHeWpRcnprRkNEemU2T2QxV3czRUlmd2dZd2xMMTVpZ1o4bkhKellyY1ptV2x2N3hLSkhxM3V0bXNqbFJEaFlHd3VaVkdvRmNmZzZnWm1HTDhuZDQ0SThUeUxuNE0lMkY1T2ZJYmtCJTJCZFR2JTJCUiUyQlRETkc3OVZ5a09hV3VDU2NlN1JaTmJFajlUQXplREg1NCUzRA
+.hootsuite.com	TRUE	/	FALSE	1736857232	__utmz	26142884.1721060330.2.2.utmcsr=hootsuite.com|utmccn=(referral)|utmcmd=referral|utmcct=/fr
+.hootsuite.com	TRUE	/	FALSE	1723666834	hsLoggedIn	1
+hootsuite.com	FALSE	/	TRUE	0	dlpsv	13
+.hootsuite.com	TRUE	/	TRUE	1721091028	fs_lua	1.1721089228590
+.hootsuite.com	TRUE	/	TRUE	1752596367	fs_uid	#o-1A0H2C-na1#a6d7633c-6b57-473e-9926-54ce084015b3:71132539-91ac-4f76-8930-30a81deec79b:1721089228590::1#12e4deda#/1752596367
+.hootsuite.com	TRUE	/	FALSE	1752625228	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Jul+16+2024+01%3A20%3A28+GMT%2B0100+(UTC%2B01%3A00)&version=202405.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=00029199-c8f1-418c-a967-b4f0a7c210f9&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0003%3A1%2CC0004%3A1%2CC0002%3A1%2CC0005%3A1%2CC0001%3A1&intType=3&geolocation=MA%3B06&AwaitingReconsent=false
+.hootsuite.com	TRUE	/	TRUE	1728865228	_rdt_uuid	1717867567668.14c2bd67-2873-47c9-8190-c915ccdcb911
+.hootsuite.com	TRUE	/	TRUE	1721089288	_dc_gtm_UA-17737250-24	1
+hootsuite.com	FALSE	/	TRUE	1721103629	_gd_session	6c11aded-bb37-4e6d-8187-dcb9614d545e
+.hootsuite.com	TRUE	/	TRUE	1721091030	FPGSID	1.1721089229.1721089229.G-9ZZYCN29EN.2vSdQpePFUSaYWj2wlll8g
+.hootsuite.com	TRUE	/	FALSE	1721175629	_uetsid	e947a6b042c511ef9ce9ef5a9b7f6678|1bo735q|2|fni|0|1657
+.hootsuite.com	TRUE	/	FALSE	1754785230	_uetvid	bbae1b2025a211ef8957a77d0991a383|1r6ytbn|1721089230060|1|1|bat.bing.com/p/insights/c/s
+.hootsuite.com	TRUE	/	FALSE	1755649232	__utma	26142884.292665638.1717856631.1721060330.1721089232.3
+.hootsuite.com	TRUE	/	FALSE	0	__utmc	26142884
+.hootsuite.com	TRUE	/	FALSE	1721089832	__utmt	1
+.hootsuite.com	TRUE	/	FALSE	1721091032	__utmb	26142884.2.9.1721089232
+.hootsuite.com	TRUE	/	TRUE	1721132358	apiAuthorization	eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZW1iZXJJZCI6MjYyNTUwMzgsInRva2VuIjoiMTI2MGFhMzgtY2VkZi00MmRlLWEwZDktNjU4NDBlMzViOThmIiwiZ3NzIjoiMjYyNTUwMzgtNzljZGQ5ZjMzYzM5NDNhNGIyMzg4OTA4NGUwNjY0ZDE3NGNhMmYzNGEyZDM0NzNjOTVkOGUxODNjNTZjZDFmMWE3ZTBiMjQ4ZTdlZDRiMzBiNmQ3ZmI1MjQ1MDYwOTRmMGFiZWJhZjk0ODg1NDUwZmIwNjNiNjIxNThjNTgzZjEiLCJleHAiOjE3MjExMzIzNTcsImlhdCI6MTcyMTA4OTIzM30.QRpai-57K928Q8CD8FfoJ4zPrVWbydgxHQELlJbUGmyXBtGhnATXDUwkd1gDu2Pe01MLbfeKeHHiTWOQvf2Ham5so9xhCm6HEaPSsAmpuGNIVmpNTWzj_eA8FdIwGn7dpwh1wmVOYNSVz7M1zxBkK7n4VlsYHFA74gUPtNfUjm8GUMPKMZqZvhSf2OCeoEC1k_SRmG1ADUeImEVfW41R8SEBFoVMmz-3VLKVuPpdPYiQKzyBZuVlbR6XTNzCTJFiyfrscx9y9o5ZkO0JJSU4YZJ77XrkXwrmLJmOrjC70dxqtg4lZ2O-fiWFXms3co1e84IEYMt1saOoIXK1Zqmlug
+hootsuite.com	FALSE	/	TRUE	0	__localhscsrfid_api-services.hootsuite.com	true|442930222d0715d3:6d9567e92da28627:409d2990a6a1e381:0|b342b84d-bab0-4294-9efe-6a48a59a5965
+.hootsuite.com	TRUE	/	TRUE	1736612324	GTMUtmTimestamp	1721060324427
+.hootsuite.com	TRUE	/	TRUE	1736612324	GTMUtmSource	google.com
+.hootsuite.com	TRUE	/	TRUE	1736612324	GTMUtmMedium	referral
+.hootsuite.com	TRUE	/	TRUE	1755649229	_ga	GA1.1.1235626771.1717867567
+.hootsuite.com	TRUE	/	TRUE	1752625229	GTMLandingContentGroup	Core%20Site
+hootsuite.com	FALSE	/	TRUE	1721132358	_SID	8rcom7fpd3chdpsbd13gs1hqdj
+.hootsuite.com	TRUE	/	TRUE	1755649230	_ga_9ZZYCN29EN	GS1.1.1721089228.3.0.1721089230.0.0.859251335
