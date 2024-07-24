@@ -139,5 +139,5 @@ class Posting:
                     post_duplicate = self.wait.until(EC.presence_of_element_located((By.XPATH, post_duplicate_xpath)))
                     post_duplicate.click()
                        
-                time.sleep(10)           
+                time.sleep(60)           
 
